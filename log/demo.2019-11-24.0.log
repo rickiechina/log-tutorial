@@ -1,0 +1,11 @@
+2019-11-24 20:37:15,093 INFO (StartupInfoLogger.java:55)- Starting LogbackApp on Thinkpad-T460P with PID 31616 (D:\GitHub\log-tutorial\logback-sample\target\classes started by Rickie in D:\GitHub\log-tutorial)
+2019-11-24 20:37:15,094 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-24 20:37:15,094 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2019-11-24 20:37:18,219 INFO (StartupInfoLogger.java:61)- Started LogbackApp in 3.642 seconds (JVM running for 4.293)
+2019-11-24 20:37:22,743 DEBUG (HelloController.java:16)- debugging ...
+2019-11-24 20:37:22,744 INFO (HelloController.java:17)- input: rickie
+2019-11-24 20:37:22,744 WARN (HelloController.java:18)- warning ...
+2019-11-24 20:37:22,745 ERROR (HelloController.java:19)- error in hello() method
+2019-11-24 20:37:34,956 INFO (StartupInfoLogger.java:55)- Starting LogbackApp on Thinkpad-T460P with PID 9328 (D:\GitHub\log-tutorial\logback-sample\target\classes started by Rickie in D:\GitHub\log-tutorial)
+2019-11-24 20:37:34,957 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.1.RELEASE, Spring v5.2.1.RELEASE
+2019-11-24 20:37:34,961 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
